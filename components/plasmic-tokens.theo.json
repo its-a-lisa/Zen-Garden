@@ -2733,7 +2733,7 @@
         "accent": {
           "default": {
             "type": "color",
-            "value": "{color.purple.500}",
+            "value": "#A855F7",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -2751,7 +2751,7 @@
           },
           "emphasis": {
             "type": "color",
-            "value": "{color.purple.600}",
+            "value": "#9333EA",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -2760,7 +2760,7 @@
           },
           "muted": {
             "type": "color",
-            "value": "{color.purple.400}",
+            "value": "#C084FC",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -2769,7 +2769,7 @@
           },
           "subtle": {
             "type": "color",
-            "value": "{color.purple.50}",
+            "value": "#FAF5FF",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
