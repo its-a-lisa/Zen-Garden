@@ -1,0 +1,60 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  background: none;
+  cursor: pointer;
+  transition-property: background;
+  transition-duration: 0.1s;
+  -webkit-transition-property: background;
+  -webkit-transition-duration: 0.1s;
+  border-radius: 6px;
+  padding: 12px 20px;
+  border: 0px solid #737373;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 8px;
+}
+.rootisDisabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+.root:hover {
+  background: var(--token-fr6ncYJKMilU);
+  border-color: #a3a3a3;
+}
+.rootstyled_onAccent:hover {
+  background: var(--token-KIbydG63-3uB);
+}
+.contentContainer {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.slotTargetChildren {
+  color: var(--token-lYpTIF_wa619);
+  font-weight: 400;
+  white-space: pre;
+}
+.slotTargetChildrenstyled_onAccent {
+  font-weight: 600;
+}
+.root:hover .slotTargetChildren {
+  color: var(--token-lYpTIF_wa619);
+}
+.rootstyled_onAccent:hover .slotTargetChildrenstyled_onAccent {
+  color: var(--token-GbUwy1fDq9LG);
+  font-weight: 400;
+}

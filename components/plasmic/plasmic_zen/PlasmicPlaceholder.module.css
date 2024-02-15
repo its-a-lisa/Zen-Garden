@@ -1,0 +1,41 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 160px;
+  height: 160px;
+  justify-content: center;
+  align-items: center;
+  justify-self: flex-start;
+  background: var(--token-K43p_DDAL9Kw);
+}
+.rootstyled_cornerIcon {
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.rootstyled_cornerIconSmall {
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  margin: 16px;
+}
+.svgstyled_largeIcon {
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.svgstyled_cornerIcon {
+  margin: 16px;
+}
+.svgstyled_cornerIconSmall {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
