@@ -32,7 +32,7 @@
         "active": {
           "background-color": {
             "type": "color",
-            "value": "{semantic.color.accent.default}",
+            "value": "#A855F7",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -41,7 +41,7 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{semantic.color.accent.emphasis}",
+            "value": "#9333EA",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -70,7 +70,7 @@
         "default": {
           "background-color": {
             "type": "color",
-            "value": "{semantic.color.accent.default}",
+            "value": "#A855F7",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -79,7 +79,7 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{semantic.color.accent.muted}",
+            "value": "#C084FC",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -108,7 +108,7 @@
         "focus": {
           "background-color": {
             "type": "color",
-            "value": "{semantic.color.accent.default}",
+            "value": "#A855F7",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -117,7 +117,7 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{semantic.color.accent.muted}",
+            "value": "#C084FC",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -146,7 +146,7 @@
         "hover": {
           "background-color": {
             "type": "color",
-            "value": "{semantic.color.accent.muted}",
+            "value": "#C084FC",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
@@ -155,7 +155,7 @@
           },
           "border-color": {
             "type": "color",
-            "value": "{semantic.color.accent.muted}",
+            "value": "#C084FC",
             "category": "color",
             "meta": {
               "projectId": "q9SbVKdQNQqS8hT1VyyZBb",
